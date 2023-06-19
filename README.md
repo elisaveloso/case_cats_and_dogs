@@ -13,6 +13,7 @@ The model is trained on a diverse dataset consisting of thousands of labeled cat
 - Deep learning model for cat and dog image classification
 - Pre-trained on a large dataset of labeled cat and dog images
 - Utilizes advanced neural network architecture for accurate predictions
+- Furthermore, the project is still in progress and new commits will happen soon.
 
 ## Contributing
 Contributions are welcome! If you'd like to contribute to Case Cats and Dogs, please follow these guidelines:
